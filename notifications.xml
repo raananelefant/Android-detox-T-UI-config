@@ -9,10 +9,4 @@
 <notification_popup_exclude_app value="true"/>
 <notification_popup_exclude_notification value="true"/>
 <notification_popup_reply value="true"/>
-<filter id="-1" value="[%t] %pkg: Smart screen --- Face detecting"/>
-<android enabled="false"/>
-<filter id="-1" value="[%t] %pkg: SD card --- Available for moving images and other media files"/>
-<com.lge.appbox.client enabled="false"/>
-<filter id="-1" value="[%t] %pkg: Synchronising Calendars… --- null"/>
-<filter id="-1" value="[%t] %pkg: Checking mailbox --- null"/>
 </NOTIFICATIONS>
